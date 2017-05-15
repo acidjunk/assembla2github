@@ -1,0 +1,2 @@
+assembla==2.8.0
+PyGithub==1.34

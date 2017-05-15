@@ -1,0 +1,5 @@
+# Auth details from https://www.assembla.com/user/edit/manage_clients
+ASSEMBLA_KEY = 'assembla_key'
+ASSEMBLA_SECRET = 'assembla_secret'
+GITHUB_USER = 'github_username'
+GITHUB_PASSWORD = 'github_password'
